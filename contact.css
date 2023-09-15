@@ -1,0 +1,21 @@
+.header{
+    width: 100%;
+    background-color: rgb(136, 180, 152);
+}
+.nav-link{
+    color: white !important;
+}
+.navbar-brand{
+    color: white !important;
+}
+.kontak-form{
+    /* background-color: rgb(114, 142, 124);
+    padding: 20px;
+    border-radius: 10px; */
+    text-align: center;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+}
+.kontak-form h1{
+    color: rgb(209, 221, 219);
+}
